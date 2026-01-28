@@ -1,0 +1,43 @@
+ul{
+    display: flex;
+   list-style: none;
+    gap: 30px;
+    color:  white;
+}
+ul:hover{
+    color: white;
+    background-color: blue;
+
+}
+nav{
+     display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+    margin: 20px ;
+    
+}
+
+a{
+    text-decoration: none;
+    
+}
+.header-block{
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+  
+    
+}
+button{
+    border-radius: 100px;
+    background-color: blue;
+    color: beige;
+    padding: 10px 20px;
+
+}
+.header-text{
+    margin-top: 150px;
+}
+.main-{
+    padding: 100px;
+}
